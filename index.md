@@ -1,4 +1,6 @@
 ---
+[comment]: # (This file was generated from `meta.yml`, please do not edit manually.)
+[comment]: # (Follow the instructions on https://github.com/coq-community/templates to regenerate.)
 title: Finite maps
 lang: en
 header-includes:
